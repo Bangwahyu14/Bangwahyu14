@@ -18,4 +18,6 @@ Tools & Methodologies: Git/GitHub, Postman, RESTful Architecture (Retrofit, OkHt
 
 🏛️**[Management Keuangan](https://github.com/Bangwahyu14/manajemenkeuangan.git):** A desktop-based financial management system for student organizations built with C# Windows Forms, featuring an interactive graphical user interface for real-time budget tracking.
 
+🍄 **[IoT Mushroom Monitor](https://github.com/B-PPAW-TI503P-2025/PROJECT_KELOMPOK4_SUHU-KELEMBABAN_UAS.git):** A C++ and Node.js integrated web system for real-time environmental monitoring.
+
 📫 Let's connect: [whyagung553@gmail.com]
