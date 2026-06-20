@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there, I'm Wahyu Agung p. 👋
 
-<!--
-**Bangwahyu14/Bangwahyu14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack, Mobile & AI Developer | Continuous Learner
 
-Here are some ideas to get you started:
+I am an Information Technology undergraduate specializing in Full-Stack Web, Mobile, and Desktop Development, alongside Artificial Intelligence. I focus on building scalable architectures, engineering robust RESTful APIs, and implementing end-to-end Machine Learning workflows—from meticulous data preprocessing to predictive modeling—to solve complex, data-driven problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+AI, Data Science & ML: Python, TensorFlow, OpenCV, Scikit-learn, XGBoost, YOLOv11, Pandas, NumPy, Data Preprocessing (IQR Outlier Handling, Advanced Scaling)
+
+Backend & Core: Node.js, Express.js, Java (Spring Boot), C++, C# (.NET)
+
+Frontend, Mobile & Desktop: React, JavaScript, HTML, Kotlin (Android Development), Windows Forms (C#)
+
+Database & Cloud: PostgreSQL, MySQL, Room DB (SQLite), Aiven, Vercel, Render
+
+Tools & Methodologies: Git/GitHub, Postman, RESTful Architecture (Retrofit, OkHttp), Version Catalog (Gradle), SMOTE, Prompt Engineering (GenAI)
+
+🚀 Highlighted Projects
+
