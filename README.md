@@ -15,6 +15,7 @@ Database & Cloud: PostgreSQL, MySQL, Room DB (SQLite), Aiven, Vercel, Render
 Tools & Methodologies: Git/GitHub, Postman, RESTful Architecture (Retrofit, OkHttp), Version Catalog (Gradle), SMOTE, Prompt Engineering (GenAI)
 
 📌 Featured Projects
-🏛️ Management Keuangan: A desktop-based financial management system for student organizations built with C# Windows Forms, featuring an interactive graphical user interface for real-time budget tracking.
+
+🏛️**[Management Keuangan](https://github.com/Bangwahyu14/manajemenkeuangan.git):** A desktop-based financial management system for student organizations built with C# Windows Forms, featuring an interactive graphical user interface for real-time budget tracking.
 
 📫 Let's connect: [whyagung553@gmail.com]
